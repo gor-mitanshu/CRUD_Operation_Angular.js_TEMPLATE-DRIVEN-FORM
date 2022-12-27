@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "Firstname": "Sanjay",
+      "Lastname": "Gor ",
+      "Email": "sanjaygor23@gmail.com",
+      "Phone": 9824698890,
+      "Salary": 10000
+    },
+    {
+      "id": 3,
+      "Firstname": "Kashish",
+      "Lastname": "Gor ",
+      "Email": "kashishgor20@gmail.com",
+      "Phone": 7043329180,
+      "Salary": 1000
+    },
+    {
+      "id": 4,
+      "Firstname": "Geeta",
+      "Lastname": "Gor ",
+      "Email": "gorgeeta16@gmail.com",
+      "Phone": 8160704426,
+      "Salary": 10000
+    },
+    {
+      "id": 5,
+      "Firstname": "Mitanshu",
+      "Lastname": "Gor ",
+      "Email": "gor.mitanshu3@gmail.com",
+      "Phone": 9558993690,
+      "Salary": 10000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
